@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.MovieGuessingGame" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+    </style>
+</resources>
